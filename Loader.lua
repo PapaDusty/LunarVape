@@ -1,5 +1,6 @@
 if true then
-  cloneref(game:GetService 'Players').LocalPlayer:Kick("Lunar Vape is discontinued.\nDo not use exploits.")
+  --cloneref(game:GetService 'Players').LocalPlayer:Kick("Lunar Vape is discontinued.\nDo not use exploits.")
+  print("idk")
 end
 
 pcall(function()
