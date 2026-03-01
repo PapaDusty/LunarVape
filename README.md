@@ -24,7 +24,7 @@
 2. Execute the provided loadstring below.
 
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AtTheZenith/LunarVape/main/Loader.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PapaDusty/LunarVape/main/Loader.lua", true))()
 ```
 
 1. Wait until a notification appears indicating Lunar Vape has loaded.
